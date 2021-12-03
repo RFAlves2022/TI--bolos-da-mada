@@ -52,5 +52,25 @@ a:hover {
     width: 1200px;
     margin-left: auto;
     margin-right: auto;
+}
 
-}    
+.cardapio {
+    background-color: #FFAFCC;
+    text-align: center;
+    font-family: 'Source Serif Pro';
+    font-size: 40px;
+    margin: 0 auto;
+    width: 1200px;
+}
+
+.itens-cardapio {
+    background-color: #FFAFCC;
+    column-count: 3;
+    text-align: center;
+    font-family: 'Source Serif Pro';
+    color: black;
+    font-size: 25px;
+    width: 1200px;
+    margin: 0 auto;
+
+}
